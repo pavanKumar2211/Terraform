@@ -2,6 +2,6 @@
 
 ## Components:
 
-# 1. TERRAFORM (iac):
+# 1. Terraform (iac):
    - AWS 
    - GCP
