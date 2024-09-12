@@ -2,16 +2,16 @@
 
 ## Components:
 
-# 1. Docker-Setup:
+# Docker-Setup:
    - Dockerfile 
    - Docker-Compose
 
-# 1. K8s-Storage:
+# K8s-Storage:
    - Storage Class 
       - AWS
       - GCP
 
-# 2. Terraform (iac):
+# Terraform (iac):
    - AWS 
    - GCP
 
