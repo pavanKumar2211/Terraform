@@ -1,4 +1,6 @@
-### Welcome to Devops Repository!
+### Devops README
+
+Welcome to Devops repository.
 
 ## Components:
 
