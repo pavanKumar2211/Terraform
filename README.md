@@ -1,19 +1,19 @@
-### Devops README
+# Devops README
 
 Welcome to Devops repository.
 
 ## Components:
 
-# Docker-Setup:
+### Docker-Setup:
    - Dockerfile 
    - Docker-Compose
 
-# K8s-Storage:
+### K8s-Storage:
    - Storage Class 
       - AWS
       - GCP
 
-# Terraform (iac):
+### Terraform (iac):
    - AWS 
    - GCP
 
